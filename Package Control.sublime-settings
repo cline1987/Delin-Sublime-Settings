@@ -6,12 +6,13 @@
 	"installed_packages":
 	[
 		"Anaconda",
+		"ayu",
 		"Git",
 		"GitGutter",
 		"Markdown Preview",
 		"Package Control",
 		"SideBarEnhancements",
-		"Solarized Color Scheme",
+		"Skins",
 		"SublimeLinter",
 		"SublimeLinter-flake8",
 		"Theme - Flatland"
